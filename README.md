@@ -32,6 +32,10 @@
 </div>
 <br>
 <div align=center>
+<h3>Status</h3>
+</div>
+
+<div align=center>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chapsaldduk&layout=compact">
 
